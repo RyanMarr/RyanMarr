@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Ryan, and I'm a product manager at FreshBooks. I work on our API product.
+
+I live in Toronto, Canada.
+
 <!--
 **RyanMarr/RyanMarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
