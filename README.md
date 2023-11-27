@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ryan, and I'm a product manager at FreshBooks. I work on our API product.
+My name is Ryan, and I'm a product manager at RoseRocket. I work on our Platform product.
 
 I live in Toronto, Canada.
 
