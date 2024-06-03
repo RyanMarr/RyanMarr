@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ryan, and I'm a product manager at RoseRocket. I work on our Platform product.
+My name is Ryan, and I'm a product manager at Rose Rocket. I work on our platform product.
 
 I live in Toronto, Canada.
 
